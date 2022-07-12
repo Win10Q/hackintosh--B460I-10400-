@@ -8,9 +8,9 @@ hackintosh！
 |-|-
 |CPU|Intel 10th CORE 10400
 |主板|ASUS B460i 
-|内存| DDR4 2666MHz 8Gx2
+|内存|光威 DDR4 2666MHz 8Gx2
 |显卡|Intel UHD Graphics 630
-|硬盘| 500G
+|硬盘| rc10 500G
 |无线网卡|Fenvi T919(BCM94360CD)
 
 
